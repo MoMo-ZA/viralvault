@@ -1,9 +1,9 @@
 {
-  "name": "medusa-next",
-  "version": "1.0.3",
+  "name": "viralvault-storefront",
+  "version": "1.0",
   "private": true,
-  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> & Victor Gerbrands <victor@medusajs.com> (https://www.medusajs.com)",
-  "description": "Next.js Starter to be used with Medusa server",
+  "author": "Muhammad Bhyat",
+  "description": "ViralVault Next.js storefront",
   "keywords": [
     "medusa-storefront"
   ],

@@ -1,8 +1,8 @@
 {
-  "name": "medusa-2.0-boilerplate-backend",
-  "version": "0.0.2",
-  "description": "A Prebaked Medusa 2.0 backend",
-  "author": "Rasmus Puls",
+  "name": "viralvault-backend",
+  "version": "1.0",
+  "description": "ViralVault MedusaJS backend",
+  "author": "Muhammad Bhyat",
   "license": "MIT",
   "keywords": [
     "sqlite",
